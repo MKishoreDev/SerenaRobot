@@ -10,8 +10,6 @@ An Advanced Telegram Group Management Bot written with Pyrogram & Telethon
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ARCHIVED-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Still-Functional-green?style=for-the-badge">
-</p>
 
 ---
 
